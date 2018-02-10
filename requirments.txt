@@ -1,0 +1,17 @@
+branca==0.2.0
+certifi==2018.1.18
+chardet==3.0.4
+colosseum==0.1.6
+folium==0.5.0
+gbulb==0.5.3
+idna==2.6
+Jinja2==2.10
+MarkupSafe==1.0
+requests==2.18.4
+ruamel.yaml==0.15.35
+six==1.11.0
+toga==0.3.0.dev4
+toga-core==0.3.0.dev4
+toga-gtk==0.3.0.dev4
+travertino==0.1.2
+urllib3==1.22
