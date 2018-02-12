@@ -1,3 +1,5 @@
 __pycache__/
 venv/
 .idea/
+Map.html
+country_count.csv
