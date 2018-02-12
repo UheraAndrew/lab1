@@ -4,9 +4,6 @@ import os
 import map_from_file
 
 
-def button_handler(widget):
-    print("hello")
-
 
 class Map(toga.App):
     def startup(self):
@@ -80,7 +77,7 @@ def build(app):
 
 
 def main():
-    return toga.App('Choose year app', 'ua.in.ucu.start', startup=build)
+    return toga.App('MapOfFilmGenerator', 'ua.in.ucu.start', startup=build)
 
 
 if __name__ == '__main__':
