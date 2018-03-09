@@ -78,11 +78,16 @@ def write_country_count(country_dict):
     f = open("country_count.csv", "w")
     f.write("name,Count" + "\n")
     for country, count in country_dict.items():
-        print(country, count, sep=",", file=f)
+        country = country.replace(",", "")
+        if(isinstance(country,str) and isinstance(count, int)):
+            f.write(country + ", " + str(count) + "\n")
     f.close()
 
 
 def create_map(year):
+    if(os.path.isfile("Map_" + str(year) + ".html")):
+        print("Map is already made")
+        return None
     essential_map = folium.Map()
     studio_group = folium.FeatureGroup(name="studio")
     tv_group = folium.FeatureGroup(name="tv")
@@ -118,10 +123,10 @@ def create_map(year):
                                                     key=lambda x: x[1]):
                     marker_name = ""
                     for name, f_g in names:
-                        marker_name = marker_name + name + ';\n'
+                        marker_name = marker_name + name + '<br>'
                         marker_name = marker_name.replace("'", "\"",
                                                           len(marker_name))
-                    names_count = marker_name.count(";")
+                    names_count = marker_name.count("<br>")
                     if names_count < 3:
                         fill_color = "green"
                     elif names_count < 6:
@@ -193,5 +198,5 @@ def create_map(year):
     essential_map.add_child(tv_group)
     essential_map.add_child(v_group)
     essential_map.add_child(folium.LayerControl())
-    essential_map.save("Map.html")
+    essential_map.save("Map_" + str(year) + ".html")
     print("Map is done")

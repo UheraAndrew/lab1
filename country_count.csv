@@ -1,147 +1,190 @@
 name,Count
-Netherlands,63
-UK,1118
-Argentina,491
-USA,4030
-Mexico,342
-Spain,212
-Germany,152
-Belgium,37
-Hungary,34
-Canada,350
-Australia,234
-France,201
-Portugal,58
-Finland,110
-Sweden,41
-Italy,153
-Isle of Man,1
-Poland,90
-Taiwan,7
-Brazil,34
-Cyprus,1
-Puerto Rico,6
-Japan,47
-Uganda,1
-Austria,44
-Croatia,22
-Luxembourg,2
-Cuba,8
-Thailand,16
-Czech Republic,16
-South Africa,21
-Greece,28
-Fiji,2
-Morocco,15
-Russia,49
-Denmark,23
-Peru,7
-Kundapura,1
-China,40
-Bangladesh,16
-Israel,20
-Dominican Republic,11
-Paraguay,5
-Ireland,30
-Channel Islands,2
-Slovakia,8
-New Zealand,30
-Turkey,11
-Malaysia,6
-Bulgaria,5
-Philippines,100
-Singapore,3
-Bahamas,2
-Ecuador,1
-Iceland,11
-Trinidad and Tobago,5
-Guyana,1
-Jamaica,4
-Barbados,1
-Nicaragua,2
-Arctic,2
-Columbia,1
-Madagascar,2
-Costa Rica,2
-India,119
-Kenya,8
-Ivory Coast,1
-French Polynesia,3
-Senegal,2
-Faroe Islands,3
-Monaco,4
-Estonia,10
-Egypt,8
-Bahrain,1
-Lesotho,1
-Namibia,3
-Iran,14
-Venezuela,1
-Lithuania,2
-Tunisia,3
-Mali,2
-Norway,16
-Switzerland,21
-Liechtenstein,1
-Space,1
-Rwanda,1
-Tanzania,2
-USSR,1
-South Korea,2
-New York State,1
-U.S. Virgin Islands,1
-Chile,5
-Romania,21
-Yugoslavia,18
-Slovenia,6
-Czechoslovakia,5
-North Korea,2
-Colombia,3
-Ukraine,9
-Georgia,1
-Zimbabwe,9
-Malawi,1
-Democratic Republic Of Congo,1
-Gibraltar,1
-Malta,3
-Nepal,3
-Central African Republic,2
-Azerbaijan,2
-Bosnia-Herzegovina,1
-Burundi,1
-Armenia,2
-Vietnam,2
-Iraq,2
-Kuwait,1
-Niger,4
-New Caledonia,1
-Honduras,1
-Lebanon,1
-Berlin,1
-Papua New Guinea,2
-Moldova,1
-Nigeria,2
-Africa,1
-Uruguay,1
-Palestine,1
-Comoros,1
-Belize,1
-Indonesia,4
-Tibet,1
-Pitcairn Island,1
-Mongolia,1
-Cte D'Ivoire,1
-Uk,1
-Vatican City,3
-Latvia,1
-Sao Tome and Principe,1
-Mozambique,1
-USS Blueback,1
-Caribbean,1
-Bermuda,1
-Algeria,1
-Benin,1
-Afghanistan,1
-Zambia,1
-Antibes,1
-Juan-les-Pins,1
+Montenegro, 3
+USA, 7168
+Guatemala, 39
+Canada, 1122
+Turkey, 51
+Iceland, 10
+UK, 4449
+France, 475
+India, 216
+Ireland, 108
+Italy, 301
+Barbados, 3
+Belgium, 36
+Brazil, 143
+Portugal, 124
+Trinidad and Tobago, 5
+Netherlands, 75
+Luxembourg, 13
+Spain, 343
+Australia, 491
+Mexico, 369
+Poland, 135
+Singapore, 12
+Japan, 73
+Pakistan, 142
+Thailand, 40
+Germany, 565
+Costa Rica, 10
+China, 110
+Venezuela, 16
+Finland, 96
+Argentina, 1220
+Puerto Rico, 18
+Switzerland, 72
+Andorra, 1
+Tanzania, 7
+South Africa, 36
+Morocco, 39
+Jordan, 9
+Yemen, 3
+Russia, 70
+Sweden, 114
+Channel Islands, 2
+Iran, 30
+New Zealand, 53
+Austria, 73
+Malta, 7
+Ukraine, 17
+Czech Republic, 101
+Saudi Arabia, 3
+Colombia, 11
+Afghanistan, 5
+Kuwait, 6
+Iraq, 8
+Bahrain, 2
+Norway, 22
+Qatar, 2
+Serbia, 41
+Bosnia-Herzegovina, 6
+Dominican Republic, 20
+Malaysia, 49
+Peru, 30
+Chile, 23
+Isle of Man, 26
+Bulgaria, 24
+Mali, 8
+Grenada, 1
+Belize, 5
+Bahamas, 12
+Cayman Islands, 2
+Saint Lucia, 1
+Palau, 57
+Honduras, 2
+French Polynesia, 37
+Denmark, 109
+Nigeria, 2
+Niger, 2
+Panama, 47
+Philippines, 99
+Aruba, 4
+Romania, 62
+Egypt, 16
+Greece, 51
+Kosovo, 4
+Hungary, 70
+South Korea, 16
+Israel, 29
+Lebanon, 2
+Syria, 1
+El Salvador, 4
+Cook Islands, 18
+Ecuador, 6
+Ghana, 1
+Cuba, 20
+Rwanda, 2
+Belarus, 1
+Bermuda, 2
+Lithuania, 2
+Tonga, 4
+Swaziland, 1
+Estonia, 6
+Tunisia, 3
+Croatia, 5
+Africa, 1
+Burkina Faso, 3
+Mediterranean Sea, 1
+Bolivia, 4
+Comoros, 1
+Greenland, 8
+Indonesia, 6
+Kenya, 35
+Laos, 1
+Madagascar, 2
+Namibia, 12
+Taiwan, 13
+Liechtenstein, 1
+Fiji, 55
+Nicaragua, 14
+Vanuatu, 29
+Gabon, 16
+Georgia, 4
+Calgary Alberta Canada, 1
+Slovakia, 20
+Haiti, 6
+Paraguay, 2
+Bangladesh, 16
+Latvia, 2
+Navassa Island, 1
+USS Nimitz, 1
+Hong Kong, 3
+Ethiopia, 2
+Gibraltar, 2
+Cyprus, 3
+West Indies, 1
+The Netherlands, 1
+Nepal, 5
+British Virgin Islands, 5
+U.S. Virgin Islands, 2
+Centerville Arkansas, 1
+Senegal, 1
+Sierra Leone, 2
+Northern Ireland, 1
+Slovenia, 6
+Cape Verde, 1
+Baltic Sea, 1
+Burma, 1
+Uganda, 1
+Jamaica, 3
+Libya, 1
+Vietnam, 6
+Cambodia, 3
+Mozambique, 3
+Falkland Islands, 1
+Macedonia, 7
+Indian Ocean, 2
+Azerbaijan, 1
+Mauritius, 3
+Maldives, 1
+USA , 1
+Space, 2
+Albania, 1
+Bogra, 1
+Bangtladesh, 1
+Monaco, 4
+Tajikistan, 2
+Chad, 1
+Mauritania, 2
+Sudan, 2
+Antigua and Barbuda, 1
+Sri Lanka, 2
+Southern USA, 1
+Zimbabwe, 3
+Vatican City, 1
+Benin, 1
+Uruguay, 2
+Arctic, 1
+Bhutan, 1
+Cameroon, 1
+Algeria, 1
+Kashmir, 1
+Papua New Guinea, 1
+Antarctica, 2
+South Georgia and the South Sandwich Islands, 1
+Botswana, 2
+Scotland, 1
+England, 1
+West Africa, 1
+Ontario, 1
+Berlin, 1
